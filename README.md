@@ -5,7 +5,7 @@ Dynamic Web Server Redirection Entryway System
 
 A collection of smaller systems working together to create an affordable solution to web hosting that allows home users to host websites from behind dynamically addressed internet access services.
 
-By default the system described would use a web request of this page: checkip.dyndns.org/
+By default the system described would use a web request of this page: http://checkip.dyndns.org/
 
 The rate limit at current writing for this service is 300 requests per minute or 5 requests per second as listed here: https://help.dyn.com/managed-dns-api-rate-limit/
 
