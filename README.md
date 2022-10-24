@@ -15,3 +15,15 @@ for the ip checking portion of the system i used dynipmon:
 
 https://github.com/TheCanterlonian/dynipmon
 
+for connecting to the fixed static ip server i used sere:
+
+https://github.com/TheCanterlonian/sere
+
+for accepting connections from the dynamically allocated ip server i used serelo:
+
+https://github.com/TheCanterlonian/serelo
+
+These 3 parts all make up a whole system for managing dynamically assigned ips as if they were static ips.
+
+Unfortunately this system only works if you recieve a public ip address, certain ISPs will not do this.
+
