@@ -1,5 +1,5 @@
 # DyWeSRE-System
-pronounced /Die-Wess-Ree/ OR /Die-Wess-Ur/ whichever you wish
+pronounced /die-wess-ree/ OR /die-wess-ur/ whichever you wish
 
 Dynamic Web Server Redirection Entryway System
 
