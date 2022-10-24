@@ -11,3 +11,7 @@ The rate limit at current writing for this service is 300 requests per minute or
 
 The system is intended to at most update every second and at least every hour so this limit is well within the intended accessing rate performed by the system.
 
+for the ip checking portion of the system i used dynipmon:
+
+https://github.com/TheCanterlonian/dynipmon
+
